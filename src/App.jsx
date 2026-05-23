@@ -37,12 +37,12 @@ export default function ModernVibeTodoApp() {
       : [
           {
             id: 1,
-            text: "Belajar vibe coding 😌",
+            text: "belajar coding",
             completed: false,
           },
           {
             id: 2,
-            text: "Bikin Todo App pertama 🚀",
+            text: "Ngaji Ngaji",
             completed: true,
           },
         ];
